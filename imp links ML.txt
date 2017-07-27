@@ -1,0 +1,22 @@
+imp links ML
+
+A (Partial) Taxonomy of Machine Learning Features
+
+http://www.mkbergman.com/1905/a-partial-taxonomy-of-machine-learning-features/
+
+Taxonomy of Methods for Deep Meta Learning
+
+https://medium.com/intuitionmachine/machines-that-search-for-deep-learning-architectures-c88ae0afb6c8#.mnwepd59c
+
+Taxonomy of machine learning algorithms
+
+https://www.packtpub.com/mapt/book/Big+Data+and+Business+Intelligence/9781783558742/1/ch01lvl1sec12/Taxonomy+of+machine+learning+algorithms
+
+The Elusive Search of Approachable Taxonomy for Machine Learning Algorithms
+
+http://blog.adnanmasood.com/2016/05/26/the-elusive-search-of-approachable-taxonomy-for-machine-learning-algorithms/
+
+
+A Tour of Machine Learning Algorithms
+
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/

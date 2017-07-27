@@ -1,0 +1,13 @@
+I have been the primary point of contact while requirement gathering from the business analyst. 
+Primary responsibilities are to create the High Level document and work flow creation. Proper UML document to give more clarity to the new feature.
+Determining the design patterns that should be followed on architecture level implementations. 
+Inspecting Robustness and redundancy required for the reliability of the service and scalability in the future.
+I have worked o tf-idf, lucene and elastic search.
+I have 5 years of working experience in agile methodologies.
+I have been involved with the design of solution involving design patterns, reliable and robust API calls.
+Model building from the database pipeline and exposing it with the help of controllers were primary responsibilities.
+Some of the solution requires scalability, hence worked on the map/reduce or parallel computing scenarios.
+Worked with lambda expression and stream.io to populate and process data. I have been also involved in extending different interfaces and implementing abstract classes.
+I have created new features in pulling data from the database then appropriate user model class persisting the type conversations and error handling.
+Worked with MVC framework to expose REST APIs and single page web application.
+I have worked on Java8, mysql, mongoDB and git for versioning
